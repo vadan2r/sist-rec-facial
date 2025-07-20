@@ -5,8 +5,10 @@ Ok, vamos criar um README para guiar a criação de um sistema de reconhecimento
 
 ## Resultados
 
-![Uploading image.png…]()
+# ANTES:
+![selfie-oscar](https://github.com/user-attachments/assets/a7850c5c-333d-41fb-add5-d68adba29a84)
 
+# DEPOIS:
 <img width="1136" height="723" alt="image" src="https://github.com/user-attachments/assets/c24a6d22-84f4-45ae-bcc0-220daa6deb72" />
 
 
